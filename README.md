@@ -25,6 +25,12 @@ For server:
 For clients:
 ------------
     python client.py username server_ip server_port
+    
+   
+![](s1.png)
+
+
+![](s2.png)
 
 
 
